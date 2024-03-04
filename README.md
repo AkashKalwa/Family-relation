@@ -1,27 +1,44 @@
-# Assignment4
+## 🔥 Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
+Here is the link to the app. We hope you enjoy it.
 
-## Development server
+> [The FamilyRelations app Link](https://familyrelations.netlify.app/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Many Thanks to all the Stargazers who have supported this project with stars(⭐). You all are amazing!!!
 
-## Code scaffolding
+Please support the work by giving the repository a ⭐, contributing to it.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Here is a quick overview of the `FamilyRelations` repo setup:
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### 🍴 Fork and Clone the Repo
 
-## Running unit tests
+First, you need to fork the `FamilyRelations` repo. You can do this by clicking the `Fork` button on the top right corner of the repo. If you are new to forking, please watch this [YouTube Guide](https://www.youtube.com/watch?v=h8suY-Osn8Q) to get started.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Once forked, you can clone the repo by clicking the `Clone or Download` button on the top right corner of the forked repo.
 
-## Running end-to-end tests
+Or
+```
+git clone <url>
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Please change the directory after cloning the repository using the `cd <folder-name>` command.
 
-## Further help
+### ⬇️ Install Dependencies
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```
+npm install
+```
+
+### 🦄 Start the Development Mode
+
+```
+npm run start 
+```
+     or
+```
+ng serve
+```
+It runs the app in development mode. Open [http://localhost:4200/](http://localhost:4200/) to view it in your browser.
+
+The page will reload when you make changes. You may also see any lint errors in the console.
