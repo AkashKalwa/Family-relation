@@ -19,7 +19,7 @@ Once forked, you can clone the repo by clicking the `Clone or Download` button o
 
 Or
 ```
-git clone <url>
+git clone https://github.com/AnilReddyDev/Family-Relations.git
 ```
 
 Please change the directory after cloning the repository using the `cd <folder-name>` command.
